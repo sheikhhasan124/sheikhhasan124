@@ -15,6 +15,6 @@ Skills: HTML/CSS/JS/REACT.JS/NODE.JS/SOLIDITY
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheikhhasan124&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sheikhhasan124)  
+
 
 ![Profile views](https://gpvc.arturio.dev/sheikhhasan124)  
