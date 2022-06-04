@@ -1,9 +1,9 @@
-![](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/274818474_3029686417345743_3427937779554694556_n.png?_nc_cat=111&ccb=1-5&_nc_sid=e3f864&_nc_ohc=WNbJYZMnrqIAX_YADj3&_nc_oc=AQksAIu0CrAOlzdGfsLERbbFer7388mM9OxDbj03WQCHnMg_GOmqwcaajiNf9sdhhJQ&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9rQk7AHcJ_HZy8ApRh658gR4u1bWuu2E2NQjRe-ggmZg&oe=621F8DF3)
+# HASAN ULLAH
 
 
-Skills: HTML/CSS/JS/REACT.JS/NODE.JS/SOLIDITY
+Skills: HTML/CSS/JS/REACT.JS/NODE.JS/EXPRESS/MONGODB
 
-- 🌱 I’m currently learning web3 
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 - ⚡ Fun fact: Impostor syndrome has hit me 
